@@ -55,7 +55,8 @@ local kiooss = {
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=kiooss&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak" />
+<!-- ─────────────────  ACTIVITY GRAPH  ───────────────── -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiooss&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
 
 </div>
 
