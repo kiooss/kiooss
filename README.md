@@ -61,14 +61,6 @@ local kiooss = {
 
 ---
 
-### `~/.pinned`
-
-- 🪄 **[dotmagic](https://github.com/kiooss/dotmagic)** — Manage my dotfiles, with just one command.
-- 🗺️ **[jquery-gmap](https://github.com/kiooss/jquery-gmap)** — jQuery plugin for Maps JavaScript API V3.
-- ␣ **[vim-zenkaku-space](https://github.com/kiooss/vim-zenkaku-space)** — Highlight zenkaku (full-width) spaces in Vim.
-
----
-
 <div align="center">
 
 <!-- ─────────────────  CONTRIBUTION SNAKE  ───────────────── -->
