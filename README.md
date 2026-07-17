@@ -50,12 +50,12 @@ local kiooss = {
 <div align="center">
 
 <!-- ─────────────────  STATS  (dark: github_dark)  ───────────────── -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kiooss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiooss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiooss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kiooss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="top languages" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiooss&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=kiooss&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak" />
 
 </div>
 
